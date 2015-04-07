@@ -1,0 +1,35 @@
+Add the following mods:
+
+# Building
+* More stuff for Tinker
+** http://www.minecraftmods.com/tinker-tweaks/
+* Desconstruct things
+** http://www.minecraftmods.com/deconstruction-table/
+
+# Travel
+** http://www.minecraftmods.com/telepads/ # Last time I used this it was very buggy.
+** http://www.minecraftmods.com/teleportation-mod/
+** http://www.minecraftmods.com/colourful-portals/
+** Replace backpack by Adventure backpack?
+*** http://www.minecraftmods.com/adventure-backpack/
+*** http://www.minecraftmods.com/compactstorage/
+
+# Fun 
+* Doggy Talents
+** http://www.minecraftmods.com/doggy-talents/
+ 
+# Localization
+* MAgic Yarn
+** http://www.minecraftmods.com/magic-yarn/
+
+# Decor
+** http://www.minecraftmods.com/colorful-armor/
+** http://www.minecraftmods.com/decocraft/
+
+# HUD
+* Wawla # Replace Waila?
+** http://www.minecraftmods.com/wawla/
+
+# Hardcore
+* Increase the Dificulty with a harder hunger mechanic.
+** http://www.minecraftmods.com/the-spice-of-life/
